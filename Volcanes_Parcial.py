@@ -87,7 +87,7 @@ while True:
     elif opc=='5':
         mostrar()
     elif opc=='6':
-        print('Ha salido exitosamente del programa.')
+        print('Ha salido exitosamente del programa.') #salida
         break
     else:
         print('Opción Incorrecta')
