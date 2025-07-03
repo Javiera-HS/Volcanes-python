@@ -90,4 +90,4 @@ while True:
         print('Ha salido exitosamente del programa.') #salida
         break
     else:
-        print('Opción Incorrecta')
+        print('Opción Invalida')
